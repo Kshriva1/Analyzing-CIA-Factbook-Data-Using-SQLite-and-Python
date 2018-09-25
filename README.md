@@ -26,3 +26,5 @@ pd.read_sql_query(q, conn)
 ```
 
 We're using pandas and matplotlib to display results neatly and visualize them because they let us focus on practicing thinking and working in SQL. We spend most of our time in SQL in this project and will inteface with pandas and matplotlib minimally.
+
+We can download the database from [here](https://github.com/factbook/factbook.sql/releases)
